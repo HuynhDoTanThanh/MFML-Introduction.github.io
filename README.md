@@ -36,7 +36,7 @@ Chúng ta có thể biến ví dụ này thành một vấn đề phân loại b
 
 
 ## 4.	Unsupervised Learning
-	Học không giám sát cho phép chúng ta tiếp cận các vấn đề mà chúng ta có ít hoặc không có ý tưởng về kết quả cuối cùng. Chúng ta có thể tìm ra cấu trúc từ dữ liệu mà chúng ta không nhất thiết phải biết tác động của các biến.
+Học không giám sát cho phép chúng ta tiếp cận các vấn đề mà chúng ta có ít hoặc không có ý tưởng về kết quả cuối cùng. Chúng ta có thể tìm ra cấu trúc từ dữ liệu mà chúng ta không nhất thiết phải biết tác động của các biến.
 Chúng ta có thể tạo ra cấu trúc này bằng cách gom cụm dữ liệu dựa trên mối quan hệ giữa các biến trong dữ liệu. Trong học không giám sát, không có phản hồi dựa trên kết quả dự đoán.
 ### Examples:
 Gom cụm: Lấy một bộ sưu tập gồm 1,000,000 gen khác nhau và tìm cách tự động gom nhóm các gen này thành các nhóm có sự tương đồng hoặc mối quan hệ nào đó bằng các biến khác nhau, như tuổi thọ, vị trí, vai trò, và vì sao.
